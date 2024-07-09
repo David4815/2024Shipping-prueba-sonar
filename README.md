@@ -1,8 +1,8 @@
-# Shipping Service Example
+# Shipping Service E  xample
 
 Este proyecto es un ejemplo de un servicio de shipping utilizando java y Docker.
 
-## Construir imagen
+## Construir i magen
 ```
 docker build -t shipping-service-example:1 .
 ```
