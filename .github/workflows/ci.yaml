@@ -9,9 +9,9 @@ on:
     branches:
       - main
       - feature/PDO-2
+      - develop
 
 jobs:
-
   sonarcloud:
       runs-on: ubuntu-latest
     steps:
