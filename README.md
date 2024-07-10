@@ -4,7 +4,7 @@ Este proyecto es un ejemplo de un servicio de shipping utilizando java y Docker.
 
 ## Construir i magen
 ```
-docker build -t shipping-service-example:1 .
+docker build  -t shipping-service-example:1 .
 ```
 ## Crear contenedor
 ```
