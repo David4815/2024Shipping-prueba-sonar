@@ -1,9 +1,5 @@
 name: CI/CD
 
-env:
-  POSTMAN_REPOSITORY_NAME: shipping-service-example # Defino nombre de repositorio postman
-
-
 on:
   push:
     branches:
